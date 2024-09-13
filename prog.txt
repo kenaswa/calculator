@@ -1,0 +1,10 @@
+Programming; Programming is the process of designing, writing, testing, and maintaining computer programs or software
+Programming language; programming language is a formal language designed to communicate instructions to a computer or computing device to perform specific tasks.
+Categories of Programming language;
+1. High level (Require compilation) – Python, Java, Java script & C++
+2. Low level (requires no compilation) – Html
+3. OOP
+Integrated development environment – Thony (https://www.python.org/ftp/python/3.12.5/python-3.12.5-amd64.exe)
+5 Steps in Programming 
+
+
